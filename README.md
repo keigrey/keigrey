@@ -12,7 +12,7 @@
 My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day.
 Been living in Japan for 2 years. My hobbies and interests beside programming are learning languages, making music, writing poetry, acquiring skills I don't yet posses and learning things I don't yet know etc. I enjoy learning new technologies and recently I've been having fun with IoT.
 
-### 👨‍💻 Programming & Markup Languages
+### Programming & Markup Languages
 
 <p>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -27,7 +27,7 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
     <a href=""><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -35,7 +35,7 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases & Cloud Hosting
+### Databases & Cloud Hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -46,7 +46,7 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### 💻 Software & Tools
+### Software & Tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -61,7 +61,7 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 * REST APIs
 * Agile Methodology
 
-## Stats
+### Stats
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keigrey&layout=compact&theme=vue-dark" align="center" />
@@ -70,11 +70,11 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 
 ### Music I Made
 
-<a href="https://www.youtube.com/watch?v=c_RgcTJzdWw" target="_blank"><img src="./img/thumbnail_wwc.png" 
-alt="Kei Grey - What Will Come" width="240" height="180" border="10" /></a>
-
-<a href="https://www.youtube.com/watch?v=XboPsc7enzU" target="_blank"><img src="./img/thumbnail_rp.png" 
-alt="Kei Grey - Rekindling Path" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=c_RgcTJzdWw" target="_blank"><img src="./img/thumbnail_wwc.PNG" 
+alt="Kei Grey - What Will Come" width="326" height="140" border="10" /></a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=XboPsc7enzU" target="_blank"><img src="./img/thumbnail_rp.PNG" 
+alt="Kei Grey - Rekindling Path" width="326" height="140" border="10" /></a>
 
 
 ## Connect with me:
