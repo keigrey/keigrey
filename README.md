@@ -55,30 +55,24 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 ## Stats
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=keigrey&count_private=true&show_icons=true&theme=vue-dark&line_height=20&card_width=300" align="center" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keigrey&layout=compact&theme=vue-dark" align="center" />
     </a>
 </div>
-&nbsp;
-<div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keigrey&theme=solarized_dark" width="250" align="center" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keigrey&theme=solarized_dark" width="250" align="center" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keigrey&theme=solarized_dark&utcOffset=9" width="250" align="center" />
-    </a>
-</div>
-&nbsp;
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=keigrey&theme=nord&column=6&no-frame=true&margin-w=10" align="center" />
-  </a>
-</div>
 
-## How to Reach Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sergeikoshelev/) 
+
+## Connect with me:
+<!--
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+-->
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sergeikoshelev#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sergeikoshelev#gh-dark-mode-only)
