@@ -5,7 +5,7 @@
 
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=keigrey&label=Profile%20views&color=0e75b6&style=flat" alt="keygrey" /> </div>
 
-<img src="Profile Banner.jpg" alt="profile banner" />
+<img src="Profile-Banner.jpg" alt="profile banner" />
 
 # Hello there!
 My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day.
