@@ -1,16 +1,24 @@
 
-<!--
-///////////////////////////////////////////////////////////////////
--->
-
 <div align="right"> <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" /> </div>
 
 
 <img src="Profile-Banner.jpg" alt="profile banner" />
 
 # Hello there!
+<div>
 My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day.
 Been living in Japan for 2 years. My hobbies and interests beside programming are learning languages, making music, writing poetry, acquiring skills I don't yet posses and learning things I don't yet know etc. I enjoy learning new technologies and recently I've been having fun with IoT.
+</div>
+&nbsp;
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=keigrey&count_private=true&show_icons=true&theme=vue-dark&line_height=20&card_width=300" align="center" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keigrey&layout=compact&theme=vue-dark" align="center" />
+    </a>
+</div>
+
 
 ### Programming & Markup Languages
 
@@ -61,21 +69,15 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 * REST APIs
 * Agile Methodology
 
-### Stats
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keigrey&layout=compact&theme=vue-dark" align="center" />
-    </a>
-</div>
-
 ### Music I Made
 
+<div>
 <a href="https://www.youtube.com/watch?v=c_RgcTJzdWw" target="_blank"><img src="./img/thumbnail_wwc.PNG" 
 alt="Kei Grey - What Will Come" width="326" height="140" border="10" /></a>
 &nbsp;
 <a href="https://www.youtube.com/watch?v=XboPsc7enzU" target="_blank"><img src="./img/thumbnail_rp.PNG" 
 alt="Kei Grey - Rekindling Path" width="326" height="140" border="10" /></a>
-
+</div>
 
 ## Connect with me:
 <!--
