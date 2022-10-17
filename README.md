@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there. My name is Sergei. I recently graduated from an immersive coding bootcamp called Code Chrysalis where I went through rigorous training to become a full-stack developer and now looking for my first full-time position.
+Been living in Japan for 2 years. My hobbies and interests beside programming are learning languages, making music, writing poetry, acquiring skills I don't yet posses and learning things I don't yet know etc. I enjoy learning new technologies and recently I've been having fun with IoT.
+
+[![Sergei's GitHub stats](https://github-readme-stats.vercel.app/api?username=keigrey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **keigrey/keigrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
