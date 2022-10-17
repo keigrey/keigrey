@@ -3,7 +3,8 @@
 ///////////////////////////////////////////////////////////////////
 -->
 
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=keigrey&label=Profile%20views&color=0e75b6&style=flat" alt="keygrey" /> </div>
+<div align="right"> <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" /> </div>
+
 
 <img src="Profile-Banner.jpg" alt="profile banner" />
 
@@ -11,40 +12,48 @@
 My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day.
 Been living in Japan for 2 years. My hobbies and interests beside programming are learning languages, making music, writing poetry, acquiring skills I don't yet posses and learning things I don't yet know etc. I enjoy learning new technologies and recently I've been having fun with IoT.
 
-## Skills
+### 👨‍💻 Programming & Markup Languages
 
-### Languages
-<div>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-</div>
+<p>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href=""><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href=""><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
 
-### Frameworks & Libraries
-<div>
-<h4> Frontend </h4>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js" />
-<!--
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
--->
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
-</div>
+### 🧰 Frameworks & Libraries
 
-<div>
-<h4> Backend </h4>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-<img src="https://img.shields.io/badge/Knex-2a2421?style=for-the-badge&logo=&logoColor=white" alt="knex.js" />
-</div>
+<p>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+</p>
 
-<div>
-<h4> Other </h4>
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" />
-<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" akt="chai">
-</div>
+### 🗄️ Databases & Cloud Hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+### 💻 Software & Tools
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
 ### Dev Ops
 * Git
@@ -58,6 +67,14 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keigrey&layout=compact&theme=vue-dark" align="center" />
     </a>
 </div>
+
+### Music I Made
+
+<a href="https://www.youtube.com/watch?v=c_RgcTJzdWw" target="_blank"><img src="./img/thumbnail_wwc.png" 
+alt="Kei Grey - What Will Come" width="240" height="180" border="10" /></a>
+
+<a href="https://www.youtube.com/watch?v=XboPsc7enzU" target="_blank"><img src="./img/thumbnail_rp.png" 
+alt="Kei Grey - Rekindling Path" width="240" height="180" border="10" /></a>
 
 
 ## Connect with me:
