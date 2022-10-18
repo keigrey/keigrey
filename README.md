@@ -54,8 +54,8 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 </p>
 
 ### Hardware
-  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 ### Software & Tools
 
