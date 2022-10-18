@@ -64,8 +64,6 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 </p>
 
 ### Dev Ops
-* Git
-* Heroku
 * REST APIs
 * Agile Methodology
 
