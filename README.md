@@ -40,7 +40,6 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
 ### Databases & Cloud Hosting
@@ -53,6 +52,10 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
     <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
+
+### Hardware
+  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### Software & Tools
 
