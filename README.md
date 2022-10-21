@@ -6,8 +6,7 @@
 
 # Hello there!
 <div>
-My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day.
-Been living in Japan for 2 years. My hobbies and interests beside programming are learning languages, making music, writing poetry, acquiring skills I don't yet posses and learning things I don't yet know etc. I enjoy learning new technologies and recently I've been having fun with IoT.
+My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day. I like making beatiful UIs and functional servers.
 </div>
 &nbsp;
 <div align="center">
@@ -69,6 +68,10 @@ Been living in Japan for 2 years. My hobbies and interests beside programming ar
 ### Dev Ops
 * REST APIs
 * Agile Methodology
+
+### Hobbies
+
+My hobbies and interests beside programming are learning languages, making music, writing poetry, acquiring skills I don't yet posses and learning things I don't yet know etc. I enjoy learning new technologies and recently I've been having fun with IoT.
 
 ### Music I Made
 
