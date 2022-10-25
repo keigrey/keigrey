@@ -6,7 +6,7 @@
 
 # Hello there!
 <div>
-My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day. I like making beatiful UIs and functional servers.
+My name is Sergei. I'm a full-stack developer with attention to detail that sometimes makes me spend 2 hours to move an element left 1 pixel but I'm getting better at controlling that perfectionism day after day. I like making beatiful UIs using React and functional servers using Express.
 </div>
 &nbsp;
 <div align="center">
